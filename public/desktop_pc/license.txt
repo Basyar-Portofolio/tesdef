@@ -1,0 +1,11 @@
+Model Information:
+* title:	No Man’s Sky - Radiant Pillar BC1
+* source:	https://sketchfab.com/3d-models/no-mans-sky-radiant-pillar-bc1-97e9276d86454c92af42c50aefa8d405
+* author:	LocoPixel (https://sketchfab.com/locopixel)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "No Man’s Sky - Radiant Pillar BC1" (https://sketchfab.com/3d-models/no-mans-sky-radiant-pillar-bc1-97e9276d86454c92af42c50aefa8d405) by LocoPixel (https://sketchfab.com/locopixel) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
